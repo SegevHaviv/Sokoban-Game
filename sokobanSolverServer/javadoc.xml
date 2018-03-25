@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="lib/Solver.jar;C:\Users\Chen\eclipse\plugins\org.eclipse.fx.ide.css.jfx8_2.4.0.201605112122.jar" destdir="doc" doctitle="SokobanSolverServer" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="model.policies,model.server,model.sokoSearchable,model.commons,model.solver,model.position,view,viewModel,model.sokoPlannable,model.states,model,model.predicats,model.clientHandlers" source="1.8" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
